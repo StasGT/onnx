@@ -1,1 +1,1 @@
-info about this project
+Export DETR Pytorch to ONNX model implementation.
